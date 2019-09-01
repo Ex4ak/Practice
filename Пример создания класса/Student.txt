@@ -1,0 +1,4 @@
+Count of groups: 2
+Name of the group: tvbo2
+Count of student: 2
+Name of student: Pasha
